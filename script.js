@@ -18,3 +18,17 @@ const VoiceRSS={speech:function(e){this._validate(e),this._request(e)},_validate
 // }
 
 // test(); 
+
+
+
+// Get jokes from joke api
+async function getJokes() {
+    try {
+      something
+    } catch (error) {
+        // catch errors here
+        console.log('whoops', error);
+    }
+}
+
+getJokes();
